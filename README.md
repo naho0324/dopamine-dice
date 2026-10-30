@@ -1,3 +1,15 @@
-# DOPAMINE 주사위 카드 게임 v1
+# 도파민 다이스 (DOPAMINE Dice)
 
-https://naho0324.github.io/dopamine-dice/
+주사위 카드 게임 — 브라우저에서 바로 플레이할 수 있어요.
+
+## 플레이하기
+
+- **최신 테스트 버전 (v1.1-test):** https://naho0324.github.io/dopamine-dice/
+- **v1 (보관용):** https://naho0324.github.io/dopamine-dice/v1/
+
+## 버전 기록
+
+| 태그 | 내용 |
+|---|---|
+| `v1.1-test` | 캐릭터별 d4~d12 주사위, 패시브 스킬, 주사위 그림, 캐릭터 크게 보기 |
+| `v1` | 주사위 모션+감정표현, 5단계 난이도 |
